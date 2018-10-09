@@ -6,19 +6,19 @@
 
 2.源图像如下：
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second.jpg**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second.jpg**
 
 3.任务一代码如下：
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**01.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**01.PNG**
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**02.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**02.PNG**
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**03.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**03.PNG**
 
 4.结果图像如下：
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second0.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second0.PNG**
 
 
 
@@ -28,15 +28,15 @@
 
 2.任务二代码如下：
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**04.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**04.PNG**
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**05.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**05.PNG**
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**06.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**06.PNG**
 
 3.结果图像如下：
 
-[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second1.PNG**
+![Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second1.PNG**
 
 ## 经验总结
 
