@@ -6,19 +6,19 @@
 
 2.源图像如下：
 
-![second](C:\Users\12480\source\repos\20181009SecondDemo\second.jpg)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second.jpg**
 
 3.任务一代码如下：
 
-![1539092352722](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539092352722.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**01.PNG**
 
-![1539092386764](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539092386764.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**02.PNG**
 
-![1539092434285](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539092434285.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**03.PNG**
 
-4.结果图像如下<!--（以画图工具打开）-->：
+4.结果图像如下：
 
-![1539092251069](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539092251069.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second0.PNG**
 
 
 
@@ -28,15 +28,15 @@
 
 2.任务二代码如下：
 
-![1539093136719](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539093136719.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**04.PNG**
 
-![1539093190456](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539093190456.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**05.PNG**
 
-![1539093230723](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539093230723.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**06.PNG**
 
-3.结果图像如下<!--（以画图工具打开）-->：
+3.结果图像如下：
 
-![1539093302959](C:\Users\12480\AppData\Roaming\Typora\typora-user-images\1539093302959.png)
+[Homework02](https://github.com/SoftwareAutumn/Homework02)/[img02](https://github.com/SoftwareAutumn/Homework02/tree/master/img02)/**second1.PNG**
 
 ## 经验总结
 
